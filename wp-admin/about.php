@@ -4,7 +4,6 @@
  *
  * @package WordPress
  * @subpackage Administration
- * just a test
  */
 
 /** WordPress Administration Bootstrap */
